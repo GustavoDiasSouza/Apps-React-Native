@@ -2,7 +2,7 @@
 Aplicações React
 Criando o projeto com o EXPO GO e substituindo os arquivos para a analise ou teste do código.
 
-Navigation: 
+Navigation: <br>
 |- Comandos utilizados para a criação do projeto -| 
 - expo init {nome do projeto}
 - npm install @react-navigation/native
